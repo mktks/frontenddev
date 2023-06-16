@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  padding: 5rem 2rem;
+  padding: 0 2rem;
   background-color: #cee8ff;
 }
 
@@ -10,6 +10,7 @@ body {
   align-items: center;
   gap: 1rem;
   width: 100%;
+  margin: 3rem 0;
 }
 
 .input-container input {
